@@ -10,6 +10,7 @@ Create a `TVSeries` enum with two cases, `familyMatters` and `fullHouse`. This e
 
 # Film Location
 
+
 Create a struct called `FilmLocation` with the following stored properties:  
 * `name` of type `String`--this should be a constant.
 * `address` of type `String`--this should be a constant.
